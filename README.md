@@ -34,6 +34,8 @@ To implement and analyze DSBSC using Python's NumPy and Matplotlib libraries.
 
 ## Tablular Column
 
+![WhatsApp Image 2025-10-18 at 13 16 07_a7871047](https://github.com/user-attachments/assets/2ec412dc-b746-433e-9327-b6af0d48fbdc)
+
 
 ## Result
 
