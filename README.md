@@ -23,18 +23,40 @@ To implement and analyze DSBSC using Python's NumPy and Matplotlib libraries.
 
 ## Program
 
-<img width="842" height="567" alt="image" src="https://github.com/user-attachments/assets/bbcf936d-0836-4155-bfc2-89b6e6e5271c" />
+```
+import numpy as np
+import matplotlib.pyplot as plt
 
+
+Am=6.7
+fm=528
+fs=52800
+t=np.arange(0,2/fm,1/fs)
+m=Am*np.cos(2*np.pi*fm*t)
+plt.subplot(3,1,1)
+plt.plot(t,m)
+
+Ac=13.4
+fc=5280
+c=Ac*np.cos(2*np.pi*fc*t)
+plt.subplot(3,1,2)
+plt.plot(t,c)
+
+am=(Ac+m)*np.cos(2*np.pi*fc*t)
+plt.subplot(3,1,3)
+plt.plot(t,am)
+plt.show()
+```
 
 ## Output Graph
 
-<img width="554" height="413" alt="image" src="https://github.com/user-attachments/assets/fb7d05af-2822-4039-988c-576512f036ad" />
-
+<img width="700" height="517" alt="image" src="https://github.com/user-attachments/assets/e5b58913-c076-40d7-bfe3-908dc9417729" />
 
 
 ## Tablular Column
 
-![WhatsApp Image 2025-10-18 at 13 16 07_a7871047](https://github.com/user-attachments/assets/2ec412dc-b746-433e-9327-b6af0d48fbdc)
+![WhatsApp Image 2025-10-23 at 22 53 31_6a9eec11](https://github.com/user-attachments/assets/fa02393c-f6ea-4202-ad14-7153ed588e9d)
+
 
 
 ## Result
