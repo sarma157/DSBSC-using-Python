@@ -53,14 +53,14 @@ plt.plot(t,s)
 
 ## Output Graph
 
-<img width="1256" height="931" alt="dsbsc out" src="https://github.com/user-attachments/assets/7b4bdc4c-eece-4de7-8231-9ac4e2d312d0" />
+<img width="718" height="542" alt="image" src="https://github.com/user-attachments/assets/6f94190a-635c-4216-b267-332be7784a84" />
 
 
 
 
 ## Tablular Column
 
-![DSBSC using python](https://github.com/user-attachments/assets/532ff33a-0ba8-4159-bfba-bedf0d4d4d31)
+![WhatsApp Image 2025-10-28 at 10 36 31_1636d794](https://github.com/user-attachments/assets/6233f238-da94-46eb-a913-c50ebd68c4d6)
 
 
 
