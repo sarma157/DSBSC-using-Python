@@ -27,16 +27,16 @@ To implement and analyze DSBSC using Python's NumPy and Matplotlib libraries.
 import numpy as np
 import matplotlib.pyplot as plt
 
-Am=6.7
-fm=531
-fs=53100
+Am=7.0
+fm=552
+fs=55200
 t=np.arange(0,2/fm,1/fs)
 m=Am*np.cos(2*np.pi*fm*t)
 plt.subplot(3,1,1)
 plt.plot(t,m)
 
-Ac=13.4
-fc=5310
+Ac=14.0
+fc=5520
 c=Ac*np.cos(2*np.pi*fc*t)
 plt.subplot(3,1,2)
 plt.plot(t,c)
