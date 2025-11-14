@@ -60,7 +60,7 @@ plt.plot(t,s)
 
 ## Tablular Column
 
-![WhatsApp Image 2025-10-28 at 10 36 31_1636d794](https://github.com/user-attachments/assets/6233f238-da94-46eb-a913-c50ebd68c4d6)
+![WhatsApp Image 2025-11-13 at 12 52 30_8ad35d84](https://github.com/user-attachments/assets/ad0470e1-64ba-4a7b-9f99-a7ec0828619b)
 
 
 
